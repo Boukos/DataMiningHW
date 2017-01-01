@@ -1,5 +1,5 @@
 # DataMiningHW
-Small coding assignments for CSE 514 Data Mining Washington University in St. Louis\
+Analysis of 8000 genes of over 300 potential Alzheimer's patients
 
 HW2: Probabilistic Model Based Clustering, Feature Selection, Random Forests, SVM
 
